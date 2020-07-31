@@ -1,6 +1,6 @@
 # Expense Tracker App
 
-### This project was created for the practice of using local storage, DOM manipulation, and form usage.
+### This project was created for the practice of using local storage, DOM manipulation, various array methods, and form usage.
 
 #### This Expense Tracker for:
 
@@ -10,4 +10,4 @@
 
 ## Expense Tracker
 
-<img src="https://imgur.com/a/p84JxXS.png" width="800">
+<img src="https://imgur.com/IlO9Eng.png" width="800">
