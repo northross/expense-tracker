@@ -1,0 +1,23 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "### This project was created for the practice of using local storage, DOM manipulation, and form usage.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d expense-tracker"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/northross/expense-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/northross/expense-tracker/issues"
+  },
+  "homepage": "https://northross.github.io/expense-tracker",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
